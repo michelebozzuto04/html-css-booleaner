@@ -1,0 +1,23 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Utilities */
+
+
+/* Generics */
+header {
+    height: 90px;
+    padding-left: 10px;
+    background-color: lightskyblue;
+    background-image: url('../img/pattern.png');
+}
+
+/* Header */
+#logo {
+    width: 250px;
+    line-height: 90px;
+}
