@@ -12,12 +12,13 @@
 header {
     height: 90px;
     padding-left: 10px;
-    background-color: lightskyblue;
+    padding-top: 20px;
+    background-color: #4ea0ff;
     background-image: url('../img/pattern.png');
+    background-size: 350px;
 }
 
 /* Header */
 #logo {
-    width: 250px;
-    line-height: 90px;
+    width: 200px;
 }
