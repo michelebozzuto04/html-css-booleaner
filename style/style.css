@@ -14,6 +14,10 @@
     color: #2daee7
 }
 
+.container {
+    margin: auto 5px;
+}
+
 /* Generics */
 header {
     height: 90px;
@@ -22,11 +26,13 @@ header {
     background-color: #4ea0ff;
     background-image: url('../img/pattern.png');
     background-size: 350px;
+    margin-bottom: 15px;
 }
 
 address {
     font-style: normal;
     font-size: 1rem;
+    margin-bottom: 15px;
 }
 
 a {
@@ -36,4 +42,9 @@ a {
 /* Header */
 #logo {
     width: 200px;
+}
+
+/* Main Content */
+.img-description{
+    font-size: 0.8rem;
 }
