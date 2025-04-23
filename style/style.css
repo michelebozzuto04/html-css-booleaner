@@ -89,6 +89,7 @@ table {
 }
 
 thead {
+    text-align: left;
     color: #ffffff;
     background-color: #20a9e5;
 }
